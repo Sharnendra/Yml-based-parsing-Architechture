@@ -1,0 +1,5 @@
+service:
+  data: 
+    name: dataShare
+    host: localhost
+    json: provided
